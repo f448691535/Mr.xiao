@@ -13,3 +13,5 @@ gc日志分析工具 https://gceasy.io/
 api接口文档生成工具  
 apifox https://www.apifox.cn/  配合ApifoxHelper插件  
 yapi http://yapi.smart-xwork.cn/  配合EasyApi插件
+
+日语分词器 git@github.com:atilika/kuromoji.git  
