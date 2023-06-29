@@ -15,5 +15,5 @@ apifox https://www.apifox.cn/  配合ApifoxHelper插件
 yapi http://yapi.smart-xwork.cn/  配合EasyApi插件
 
 [日语分词器](https://github.com/atilika/kuromoji/)(lucene或者solr)  
-[Elasticsearch 内存占用分析及 page cache 监控](https://zhuanlan.zhihu.com/p/411417987)
+[Elasticsearch 内存占用分析及 page cache 监控](https://zhuanlan.zhihu.com/p/411417987)  
 [Elasticsearch 特殊字符查询解决方案参考](https://discuss.elastic.co/t/how-to-index-special-characters-and-search-those-special-characters-in-elasticsearch/42506)
